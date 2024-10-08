@@ -161,7 +161,7 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600">
-              <Link href="https://t.me/+h3NOISYqpiowNTJl">Telegram</Link>
+              <Link href="https://t.me/+shaonproject">Telegram</Link>
             </Button>
           </li>
         </ul>
